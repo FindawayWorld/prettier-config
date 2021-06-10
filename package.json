@@ -1,0 +1,9 @@
+{
+  "name": "@findaway/prettier-config",
+  "version": "1.0.0",
+  "description": "Findaway Team Prettier Config",
+  "main": "index.json",
+  "repository": "git@github.com:findawayworld/prettier-config.git",
+  "author": "Cameron Wardzala <cwardzala@findaway.com>",
+  "license": "MIT"
+}
