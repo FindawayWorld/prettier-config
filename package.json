@@ -1,9 +1,17 @@
 {
   "name": "@findaway/prettier-config",
-  "version": "1.0.0",
+  "version": "1.2.0",
+  "private": false,
   "description": "Findaway Team Prettier Config",
   "main": "index.json",
-  "repository": "git@github.com:findawayworld/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/findawayworld/prettier-config.git"
+  },
   "author": "Cameron Wardzala <cwardzala@findaway.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/findawayworld/prettier-config/issues"
+  },
+  "homepage": "https://github.com/findawayworld/prettier-config#readme"
 }
